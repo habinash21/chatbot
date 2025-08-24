@@ -25,7 +25,7 @@
 <h3>
   <b>
     To run the program clone the respistory in your folder git clone "https://github.com/habinash21/chatbot.git",<br>
-    cd chatbot<br>
+    cd chatbot-main<br>
     then run :
         python chatbot_with_tool.py 
             or
